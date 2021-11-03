@@ -1,0 +1,2 @@
+git merge --no-ff -m "禁止使用快速合并"
+
