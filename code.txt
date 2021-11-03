@@ -1,3 +1,4 @@
 git branch
 git checkout master
 git checkout -b dev1
+git checkout -b dev1 touch code2.txt
